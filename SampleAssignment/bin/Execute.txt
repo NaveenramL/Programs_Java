@@ -1,0 +1,11 @@
+@echo off
+
+
+ cd com
+ cd mycompany
+ cd demo
+ javac Hello.java
+ cd ..
+ cd ..
+ cd ..
+ java com.mycompany.demo.Hello

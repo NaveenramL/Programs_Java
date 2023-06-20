@@ -1,0 +1,31 @@
+1684155009265	Rename type 'A'
+1684155026732	Rename type 'B'
+1684155395912	Rename type 'Sample'
+1684155406926	Rename type 'Test'
+1684155554933	Rename type 'Demo'
+1684155605399	Rename type 'DemoStatic'
+1684155783445	Rename type 'ExampleStreamAPI'
+1684155811817	Rename type 'Example2StreamAPI'
+1684155844243	Rename type 'ExampleStaticBlock'
+1684155883735	Rename type 'ExampleForEach'
+1684155910517	Rename type 'ExampleMethodReference'
+1684156030758	Rename type 'DemoMethodReference'
+1684156061269	Rename type 'MethodReferenceExample'
+1684156107142	Rename type 'DemoLambda'
+1684156132584	Rename type 'DemoLambdaExpressions'
+1684156166284	Rename type 'AnonymousClass'
+1684156236640	Rename type 'DemoCollectors'
+1684156741088	Rename type 'Example3'
+1684156979622	Delete element
+1684157624537	Copy compilation units
+1684157649932	Delete elements
+1684157672119	Copy compilation units
+1684157737750	Delete element
+1684157742568	Delete element
+1684157746246	Delete element
+1684157846920	Copy compilation unit
+1684157866173	Delete element
+1684157957481	Copy compilation unit
+1684157974061	Delete element
+1684470329335	Rename type 'AdditionSample'
+1684471732031	Rename package 'com.demo.designPatterns'
